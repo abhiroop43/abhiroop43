@@ -1,5 +1,5 @@
 # Abhiroop Santra
-### Head of Software Engineering, managing a cross functional team of 150+ Engineers.
+### Software Engineer interested in Full Stack Web Development
 
 
 
