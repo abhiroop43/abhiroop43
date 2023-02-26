@@ -7,7 +7,7 @@
 
 ⚐ Based in Office
 
-ϟ Currently Learning about AI/ML and Unreal Engine 5
+ϟ Currently learning something new
 
 
 
