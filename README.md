@@ -1,5 +1,5 @@
 # Abhiroop Santra
-### Software Engineer interested in Full Stack Web Development
+### Software Engineer interested in Full Stack Web & Mobile Development
 
 
 
