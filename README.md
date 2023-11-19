@@ -7,7 +7,7 @@
 
 ⚐ Based in Office
 
-ϟ Currently learning something new
+ϟ Getting Rusty 🦀
 
 
 
