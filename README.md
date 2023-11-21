@@ -47,6 +47,9 @@ Join me on this epic quest of coding, where every line is a step closer to the s
 <a href="https://github.com/abhiroop43/wander-loom">
   <img align="center" src="https://github-readme-stats.abhiroopsantra.dev/api/pin/?username=abhiroop43&repo=wander-loom" />
 </a>
+<a href="https://github.com/abhiroop43/wander-loom">
+  <img align="center" src="https://github-readme-stats.abhiroopsantra.dev/api/pin/?username=abhiroop43&repo=crust-press" />
+</a>
 
 <!--
 <a href="https://github.com/abhiroop43/wander-loom">
