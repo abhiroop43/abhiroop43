@@ -33,10 +33,10 @@ Join me on this epic quest of coding, where every line is a step closer to the s
 <br />
 <br />
 
-<a href="https://github.com/anuraghazra/github-readme-stats">
+<a href="https://github.com/abhiroop43/github-readme-stats">
   <img height=200 align="center" src="https://github-readme-stats.abhiroopsantra.dev/api?username=abhiroop43" />
 </a>
-<a href="https://github.com/anuraghazra/convoychat">
+<a href="https://github.com/abhiroop43">
   <img height=200 align="center" src="https://github-readme-stats.abhiroopsantra.dev/api/top-langs?username=abhiroop43&layout=compact&langs_count=8&card_width=320" />
 </a>
 
