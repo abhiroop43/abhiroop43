@@ -14,19 +14,21 @@ I'm a Software Engineering Lead specializing in full stack, mobile development, 
   <img height=200 align="center" src="https://github-readme-stats.abhiroopsantra.dev/api?username=abhiroop43" />
 </a>
 <a href="https://github.com/abhiroop43">
-  <img height=200 align="center" src="https://github-readme-stats.abhiroopsantra.dev/api/top-langs?username=abhiroop43&layout=compact&langs_count=8&card_width=320&size_weight=0&count_weight=1" />
+  <img height=200 align="center" src="https://github-readme-stats.abhiroopsantra.dev/api/top-langs?username=abhiroop43&layout=compact&langs_count=4&card_width=320&size_weight=0&count_weight=1" />
 </a>
 
 <br />
 <br />
 <br />
 
+<!--
 <a href="https://github.com/abhiroop43/wander-loom">
   <img align="center" src="https://github-readme-stats.abhiroopsantra.dev/api/pin/?username=abhiroop43&repo=wander-loom" />
 </a>
 <a href="https://github.com/abhiroop43/vox-agora">
   <img align="center" src="https://github-readme-stats.abhiroopsantra.dev/api/pin/?username=abhiroop43&repo=vox-agora" />
 </a>
+-->
 
 <!--
 <a href="https://github.com/abhiroop43/wander-loom">
