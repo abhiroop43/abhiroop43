@@ -1,28 +1,5 @@
-# Abhiroop Santra
-
-### 🚀 Full Stack Sorcerer | Code Craftsman | Mobile Maestro 📱
-
-Greetings, fellow digital wanderer! 👋 I'm Abhiroop, a seasoned Software Engineering Lead weaving the intricate tapestry of the tech realm. With a wizard's wand in one hand and a keyboard in the other, I orchestrate symphonies of code that bring ideas to life.
-
-🌐 **Web Weaver Extraordinaire**
-In the vast expanse of the World Wide Web, I've mastered the art of Full Stack alchemy. From front-end enchantments that captivate users to back-end spells that keep data flowing seamlessly, my code dances with the elegance of a thousand pixels.
-
-📱 **Mobile Magician**
-Embarking on the quest of mobile app development, I've conquered the realms of iOS and Android. With spells cast in Swift, Kotlin, and the arcane language of React Native, I've summoned apps that leave users in awe.
-
-💡 **Idea Alchemist**
-Behind every line of code lies the spark of an idea. As an idea alchemist, I thrive on transforming concepts into functional realities. Whether it's an innovative web interface or a revolutionary mobile app, I turn dreams into digital gold.
-
-🔧 **Problem Solver & Bug Whisperer**
-In the labyrinth of software development, challenges are my playground. Armed with the sword of logical reasoning and the shield of debugging prowess, I fearlessly navigate the maze, turning bugs into mere echoes of the past.
-
-🔍 **Open Source Advocate**
-A true believer in the power of community magic, I contribute to the open-source cauldron. My potions and elixirs are freely shared, fostering collaboration and growth in the ever-evolving potion-making community.
-
-🎓 **Continuous Learner**
-In the ever-shifting sands of technology, one must be a perpetual learner. I'm committed to the pursuit of knowledge, constantly leveling up my skills and embracing the ever-unfolding chapters of the digital saga.
-
-Join me on this epic quest of coding, where every line is a step closer to the summit of innovation. Together, let's craft a digital masterpiece that stands the test of time! 🚀✨ #CodeConjurer #TechTrailblazer #InnovationArchitect
+Full Stack Web Development 🌐 | Mobile Apps 📱 | ML/DS 🤖
+I'm a Software Engineering Lead specializing in full stack, mobile development, and ML/DS. I excel in transforming ideas into functional apps, solving complex problems, and contributing to open-source projects. Always learning and innovating. Let's build something great! 🚀✨
 
 
 
