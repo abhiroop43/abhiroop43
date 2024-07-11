@@ -1,4 +1,5 @@
-Full Stack Web Development 🌐 | Mobile Apps 📱 | ML/DS 🤖
+## Full Stack Web Development 🌐 | Mobile Apps 📱 | ML/DS 🤖
+
 I'm a Software Engineering Lead specializing in full stack, mobile development, and ML/DS. I excel in transforming ideas into functional apps, solving complex problems, and contributing to open-source projects. Always learning and innovating. Let's build something great! 🚀✨
 
 
