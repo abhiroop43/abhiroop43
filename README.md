@@ -1,6 +1,6 @@
-## Full Stack Web Development 🌐 | Mobile Apps 📱 | ML/DS 🤖
+## Software Engineering Lead ⚜️
 
-I'm a Software Engineering Lead specializing in full stack, mobile development, and ML/DS. I excel in transforming ideas into functional apps, solving complex problems, and contributing to open-source projects. Always learning and innovating. Let's build something great! 🚀✨
+Seasoned Software Engineering Lead 💻 with a proven track record in leading large-scale microservices projects for major enterprises. Expertise in .NET, Spring Boot, Angular, React Native, Go, SQL, and MongoDB. Committed to delivering high-quality, scalable solutions that meet the demands of complex business environments. Let's build the future together! 🚀
 
 
 
