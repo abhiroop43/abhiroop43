@@ -41,4 +41,4 @@ Seasoned Software Engineering Lead 💻 with a proven track record in leading la
 <br />
 <br />
 
-[![Abhiroop's WakaTime stats](https://github-readme-stats.abhiroopsantra.dev/api/wakatime?username=abhiroop43)](https://github.com/abhiroop43/github-readme-stats)
+[![Abhiroop's WakaTime stats](https://github-readme-stats.abhiroopsantra.dev/api/wakatime?username=abhiroop43&langs_count=6)](https://github.com/abhiroop43/github-readme-stats)
