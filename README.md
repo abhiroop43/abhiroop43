@@ -1,6 +1,10 @@
-## Software Engineering Lead ⚜️
+## Development & Product Manager 👨‍💻
 
-Seasoned Software Engineering Lead 💻 with a proven track record in leading large-scale microservices projects for major enterprises. Expertise in .NET, Spring Boot, Angular, React Native, Go, SQL, and MongoDB. Committed to delivering high-quality, scalable solutions that meet the demands of complex business environments. Let's build the future together! 🚀
+Versatile Development & Product Manager with proven expertise in orchestrating dual-track software development and product strategy, consistently delivering multimillion-dollar initiatives that exceed stakeholder expectations. Drives innovation daily. Builds elite teams. Scales with purpose. ⬆️
+
+Leads end-to-end product lifecycles while cultivating high-performing engineering teams that consistently achieve 98% on-time delivery rates across complex technical landscapes. Leads fearlessly. ⏩
+
+Transforms business requirements into scalable technical solutions that generate measurable ROI, leveraging deep expertise in both development methodologies and product management frameworks. Ships confidently. Executes precisely. Thinks strategically. 🧠
 
 
 
@@ -36,6 +40,8 @@ Seasoned Software Engineering Lead 💻 with a proven track record in leading la
   <img align="center" src="https://github-readme-stats.abhiroopsantra.dev/api/pin/?username=abhiroop43&repo=chatlevel9k" />
 </a>
 -->
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=abhiroop43)](https://github-profile-trophy.vercel.app/?username=abhiroop43)
 
 <br />
 <br />
