@@ -18,9 +18,14 @@ Transforms business requirements into scalable technical solutions that generate
 <a href="https://github.com/abhiroop43/github-readme-stats">
   <img height=200 align="center" src="https://github-readme-stats.abhiroopsantra.dev/api?username=abhiroop43" />
 </a>
-<a href="https://github.com/abhiroop43">
+
+
+<!--<a href="https://github.com/abhiroop43">
   <img height=200 align="center" src="https://github-readme-stats.abhiroopsantra.dev/api/top-langs?username=abhiroop43&layout=compact&langs_count=4&card_width=320&size_weight=0&count_weight=1" />
-</a>
+</a>-->
+
+
+[![Abhiroop's WakaTime stats](https://github-readme-stats.abhiroopsantra.dev/api/wakatime?username=abhiroop43&langs_count=8)](https://github.com/abhiroop43/github-readme-stats)
 
 <br />
 <br />
@@ -47,4 +52,4 @@ Transforms business requirements into scalable technical solutions that generate
 <br />
 <br />
 
-[![Abhiroop's WakaTime stats](https://github-readme-stats.abhiroopsantra.dev/api/wakatime?username=abhiroop43&langs_count=6)](https://github.com/abhiroop43/github-readme-stats)
+
