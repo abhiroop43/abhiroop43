@@ -1,6 +1,6 @@
-## Development & Product Manager 👨‍💻
+## Manager - Product Development 👨‍💻
 
-Versatile Development & Product Manager with proven expertise in orchestrating dual-track software development and product strategy, consistently delivering multimillion-dollar initiatives that exceed stakeholder expectations. Drives innovation daily. Builds elite teams. Scales with purpose. ⬆️
+Versatile Product Development Manager with proven expertise in orchestrating dual-track software development and product strategy, consistently delivering multimillion-dollar initiatives that exceed stakeholder expectations. Drives innovation daily. Builds elite teams. Scales with purpose. ⬆️
 
 Leads end-to-end product lifecycles while cultivating high-performing engineering teams that consistently achieve 98% on-time delivery rates across complex technical landscapes. Leads fearlessly. ⏩
 
