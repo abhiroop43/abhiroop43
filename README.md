@@ -16,20 +16,24 @@ Transforms business requirements into scalable technical solutions that generate
 <br />
 
 <a href="https://github.com/abhiroop43/github-readme-stats">
-  <img height=200 align="center" src="https://github-readme-stats.abhiroopsantra.dev/api?username=abhiroop43" />
+  <img height=200 align="center" src="https://github-readme-stats.abhiroopsantra.dev/api?username=abhiroop43&theme=aura&hide_border=true" />
 </a>
 
 
 <!--<a href="https://github.com/abhiroop43">
   <img height=200 align="center" src="https://github-readme-stats.abhiroopsantra.dev/api/top-langs?username=abhiroop43&layout=compact&langs_count=4&card_width=320&size_weight=0&count_weight=1" />
 </a>-->
+<br />
+<br />
+<br />
 
-
-[![Abhiroop's WakaTime stats](https://github-readme-stats.abhiroopsantra.dev/api/wakatime?username=abhiroop43&langs_count=8)](https://github.com/abhiroop43/github-readme-stats)
+[![Abhiroop's WakaTime stats](https://github-readme-stats.abhiroopsantra.dev/api/wakatime?username=abhiroop43&langs_count=5&theme=aura&hide_border=true)](https://github.com/abhiroop43/github-readme-stats)
 
 <br />
 <br />
 <br />
+
+[![GitHub Streak](https://streak-stats.demolab.com?user=abhiroop43&theme=aura&hide_border=true&fire=EB7B00&currStreakLabel=EB5454)](https://git.io/streak-stats)
 
 <!--
 <a href="https://github.com/abhiroop43/wander-loom">
@@ -46,7 +50,7 @@ Transforms business requirements into scalable technical solutions that generate
 </a>
 -->
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=abhiroop43)](https://github-profile-trophy.vercel.app/?username=abhiroop43)
+[![trophy](https://github-profile-trophy.vercel.app/?username=abhiroop43)](https://github-profile-trophy.vercel.app/?username=abhiroop43&theme=onedark)
 
 <br />
 <br />
