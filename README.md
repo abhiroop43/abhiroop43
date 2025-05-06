@@ -13,7 +13,6 @@ Transforms business requirements into scalable technical solutions that generate
 
 <br />
 <br />
-<br />
 
 <a href="https://github.com/abhiroop43/github-readme-stats">
   <img height=200 align="center" src="https://github-readme-stats.abhiroopsantra.dev/api?username=abhiroop43&theme=aura&hide_border=true" />
@@ -31,8 +30,6 @@ Transforms business requirements into scalable technical solutions that generate
 
 [![Abhiroop's WakaTime stats](https://github-readme-stats.abhiroopsantra.dev/api/wakatime?username=abhiroop43&langs_count=5&theme=aura&hide_border=true)](https://github.com/abhiroop43/github-readme-stats)
 
-<br />
-<br />
 <br />
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=abhiroop43&theme=aura&hide_border=true&fire=EB7B00&currStreakLabel=EB5454)](https://git.io/streak-stats)
