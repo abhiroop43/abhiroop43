@@ -27,6 +27,8 @@ Transforms business requirements into scalable technical solutions that generate
 <br />
 <br />
 
+[![Total](https://wakatime.com/badge/user/018bbcc3-df5e-41ae-a6a3-3aa48d7c9f0d.svg?style=for-the-badge)](https://wakatime.com/@018bbcc3-df5e-41ae-a6a3-3aa48d7c9f0d)
+
 [![Abhiroop's WakaTime stats](https://github-readme-stats.abhiroopsantra.dev/api/wakatime?username=abhiroop43&langs_count=5&theme=aura&hide_border=true)](https://github.com/abhiroop43/github-readme-stats)
 
 <br />
@@ -50,7 +52,7 @@ Transforms business requirements into scalable technical solutions that generate
 </a>
 -->
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=abhiroop43)](https://github-profile-trophy.vercel.app/?username=abhiroop43&theme=onedark)
+[![trophy](https://github-profile-trophy.vercel.app/?username=abhiroop43&theme=darkhub&no-frame=true)](https://github-profile-trophy.vercel.app/?username=abhiroop43)
 
 <br />
 <br />
