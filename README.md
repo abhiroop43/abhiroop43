@@ -53,7 +53,7 @@ Transforms business requirements into scalable technical solutions that generate
 </a>
 -->
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=abhiroop43&theme=darkhub&no-frame=true)](https://github-profile-trophy.vercel.app/?username=abhiroop43)
+[![trophy](https://github-profile-trophy-tawny.vercel.app/?username=abhiroop43&theme=darkhub&no-frame=true)](https://github-profile-trophy-tawny.vercel.app/?username=abhiroop43)
 
 <br />
 <br />
