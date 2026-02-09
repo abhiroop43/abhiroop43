@@ -36,7 +36,7 @@ Transforms business requirements into scalable technical solutions that generate
 [![GitHub Streak](https://github-readme-streak-stats-abhiroop43s-projects.vercel.app/?user=abhiroop43&theme=aura&hide_border=true&fire=EB7B00&currStreakLabel=EB5454)](https://github-readme-streak-stats-abhiroop43s-projects.vercel.app/?user=abhiroop43&theme=aura&hide_border=true&fire=EB7B00&currStreakLabel=EB5454)
 -->
 
-[![GitHub Streak](https://github-readme-streak-stats-git-main-abhiroop43s-projects.vercel.app/?user=abhiroop43&theme=aura&hide_border=true&fire=EB7B00&currStreakLabel=EB5454)](https://github-readme-streak-stats-git-main-abhiroop43s-projects.vercel.app/?user=abhiroop43&theme=aura&hide_border=true&fire=EB7B00&currStreakLabel=EB5454)
+[![GitHub Streak](https://github-readme-streak-stats-eight-silk.vercel.app/?user=abhiroop43&theme=aura&hide_border=true&fire=EB7B00&currStreakLabel=EB5454)](https://github-readme-streak-stats-eight-silk.vercel.app/?user=abhiroop43&theme=aura&hide_border=true&fire=EB7B00&currStreakLabel=EB5454)
 
 <!--
 <a href="https://github.com/abhiroop43/wander-loom">
